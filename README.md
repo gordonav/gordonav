@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gordonav
-- 👀 I’m interested in data science and machine learning.
 - 🖥️ I’m currently a software engineer.
-- 🏝️ In my free time, I like to read books and travel.
+- 👀 I’m interested in data science and machine learning.
+- 🏝️ In my free time, I like to read books and travel to new places.
 
 <!---
 gordonav/gordonav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
