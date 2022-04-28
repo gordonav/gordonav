@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gordonav
-- 🖥️ I’m currently a software engineer.
-- 👀 I’m interested in data science and machine learning.
-- 🏝️ In my free time, I like to read books and travel to new places.
+- 📚 Favorite Book: The Hundred-Page Machine Learning Book
+- 🖥 Favorite Tool: Jupyter Notebook
+- 🐍 Favorite Language: Python
 
 <!---
 gordonav/gordonav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
