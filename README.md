@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🖥️ I’m currently a front-end software engineer.
-- 👀 I’m interested in data analytics and solutions.
+- 👀 I’m interested in data analytics and machine learning.
 - 🏝️ In my free time, I like to read books and travel to new places.
 
 ### The fun stuff 💃
