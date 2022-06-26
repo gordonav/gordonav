@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🖥️ I’m currently a front-end software engineer.
-- 👀 I’m interested in <a href="https://github.com/gordonav/research-and-analytics">research, <a href="https://github.com/gordonav/data-analytics-portfolio">data analytics</a>, and machine learning.
+- 👀 I’m interested in <a href="https://github.com/gordonav/research-and-analytics">research, <a href="https://github.com/gordonav/data-analytics-portfolio">data analytics</a>, and project management.
 - 🏝️ In my free time, I like to read books and travel to new places.
 
 ### The fun stuff 💃
