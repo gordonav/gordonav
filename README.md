@@ -8,8 +8,8 @@
 - ☀️ Favorite season: Summer
 - 🔠 Favorite board game: Scrabble
 - 📜 Favorite book genre: Historical fiction
-- 🗺️ Favorite TV show: 9-1-1: Lone Star
-- 🧳 If I could travel to any country right now, it would be... Spain.
+- 📺 Favorite TV show: 9-1-1 on Fox
+- ✈️ If I could travel to any country right now, it would be... Spain.
 - ☕ My perfect Saturday consists of...a quiet cafe, a good book, and then a nature walk.
 
 
