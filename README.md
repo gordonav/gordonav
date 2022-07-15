@@ -5,7 +5,7 @@
 - 🏝️ In my free time, I like to read books and travel to new places.
 
 ### The fun stuff 💃
-- ☀️ Favorite season: Summer
+- ☀️ Favorite season: Spring
 - 🔠 Favorite board game: Scrabble
 - 📜 Favorite book genre: Historical fiction
 - 📺 Favorite TV show: 9-1-1 on Fox
