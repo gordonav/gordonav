@@ -2,7 +2,7 @@
 
 - 🖥️ Current role: Software engineer
 - 🎓 Education: BS in Computer Science with a concentraion in Data Science | MBA in Data Analytics
-- 👀 Interests: <a href="https://github.com/gordonav/data-analytics-portfolio">Data analytics</a>, Business analysis, and Project management
+- 👀 Interests: <a href="https://github.com/gordonav/data-analytics-portfolio">Data analytics</a>, Business insights, and Machine learning
 
 ### The fun stuff 💃
 - 🌸 Favorite season: Spring
